@@ -1,7 +1,5 @@
 package com.company;
 
-import com.sun.javaws.IconUtil;
-
 import java.util.Scanner;
 
 public class Main {
